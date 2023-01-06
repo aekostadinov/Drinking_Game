@@ -3,4 +3,6 @@ Using pygame I created my first Python game.The main goal in it is to collect be
 In addition I will add levels and different kind of drinks with different value of speed.
 
 
-<img width="895" alt="Screenshot 2023-01-06 at 23 26 25" src="https://user-images.githubusercontent.com/106312544/211102949-9dd446b7-02ef-4f57-bacf-c38ab328b7b3.png">
+
+https://user-images.githubusercontent.com/106312544/211103521-d1e153d7-2c99-4a5a-a40f-e5b713c79a99.mov
+
